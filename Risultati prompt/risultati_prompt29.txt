@@ -1,0 +1,4 @@
+Prompt:
+Quando confermo la modifica e torna alla lista dei ringraziamenti, nella lista la modifica all'anteprima del testo non è visibile, se prima non torno al menù principale e poi riapro la lista. Voglio che, appena fatta la modifica, quando si riapre la lista, essa è già aggiornata con la modifica appena effettuata.
+
+Il bug è stato fixato correttamente.

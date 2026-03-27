@@ -1,0 +1,8 @@
+Prompt:
+Adesso fai in modo che quando clicco sul pulsante per entrare come lettore venga fuori una nuova finestra, sempre con le stesse dimensioni, in cui viene dato il benvenuto al lettore che è pronto per leggere i suoi ringraziamenti. La finestra deve essere composta di una form, in cui il lettore deve inserire email dello scrittore e codice del ringraziamento, una sezione in cui deve spuntare il testo se i dati inseriti sono corretti e due pulsanti, uno per confermare i dati della form e uno per tornare alla finestra di login.
+
+Il risultato segue fedelmente quanto è stato scritto nel prompt.
+Anche la finestra per il lettore ha le dimensioni corrette e tutti gli elementi sono visibili.
+Non ci soddisfa molto il modo in cui viene visualizzato il testo del ringraziamento, in quanto nella 
+finestra resta centrale la form invece del testo. Preferibile fare in modo che venga fuori in una 
+nuova finestra.

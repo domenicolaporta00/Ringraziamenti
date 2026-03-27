@@ -1,0 +1,4 @@
+Prompt:
+Voglio che quando l'utente chiude la finestra di pop-up ritorna alla home page dello scrittore. Inoltre, nel pop-up c'è un errore: c'è scritto "servierà" invece di "servirà". Correggi questi due problemi.
+
+I due problemi sono stati risolti.

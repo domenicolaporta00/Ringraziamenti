@@ -1,0 +1,7 @@
+Prompt:
+Implementa la funzionalità di recupero password nella pagina di login.
+
+Anche se non era prevista nei requisiti.
+
+La procedura di recupero password è stata implementata correttamente.
+C'è solo un bug grafico: il pulsante è troppo stretto e non è bello da vedere.

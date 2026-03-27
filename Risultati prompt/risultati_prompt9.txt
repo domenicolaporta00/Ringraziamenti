@@ -1,0 +1,7 @@
+Prompt:
+Adesso voglio che mi generi la schermata per lo scrittore, accessibile solo a seguito di autenticazione. Per adesso non implementare l'autenticazione, ma genera solo la finestra che deve contenere due pulsanti, uno per inserire un nuovo ringraziamento e uno per visualizzare quelli già inseriti.
+
+La schermata è stata generata correttamente.
+L'unico bug presente è che, tornando al login, i campi email e password restano compilati e resta anche, 
+se era stato attivato, l'avviso di mancato inserimento di email e password. Succede la stessa cosa anche 
+nel caso in cui si esca dalla sezione lettore.

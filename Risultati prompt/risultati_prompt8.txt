@@ -1,0 +1,13 @@
+Prompt:
+Nella nuova finestra in cui viene visualizzato il messaggio, se il testo è troppo lungo, la sezione 
+che lo contiene si espande fino ad uscire fuori dall'intera finestra; di conseguenza, l'intero testo 
+non si vede tutto. Voglio che la sezione che contiene il testo sia di dimensione fissa e che, se il 
+messaggio è troppo lungo, ci sia una scrollbar per scorrere e visualizzare l'intero testo.
+Poi, alcune righe si estendono anche in orizzontale fino al punto che alcune parole vengono tagliate. 
+Risolvi mettendo il testo con allineamento giustificato.
+
+Il bug grafico che estendeva la sezione del testo fino a scomparire dopo la fine della finestra è 
+stato risolto. Anche il problema delle righe troppo lunghe è stato risolto mettendo il testo centrato; 
+in realtà, era stato chiesto all'AI di utilizzare un allineamento giustificato, ma il risultato 
+ottenuto è graficamente accettabile. Potrebbe essere migliorata graficamente la barra per lo scrolling, 
+ma siamo soddisfatti così.

@@ -1,0 +1,8 @@
+Prompt:
+la pagina della lettura dei ringraziamenti impiega tanto tempo per aprirsi e per caricarsi. Inoltre, è presente dello spazio anche dopo la fine del ringraziamento. Prova a rifare da zero questa pagina rispettando questi requisiti: graficamente deve essere come quella attuale, deve aprirsi velocemente, sia il ringraziamento sia la risposta devono essere centrati nella sezione, sia il ringraziamento sia la risposta devono entrare orizzontalmente nella sezione senza che venga tagliato nulla, sia la risposta che il ringraziamento devono stare in un contenitore che ha le dimensioni adatte per contenerli.
+
+Ho provato una soluzione drastica.
+
+La pagina si carica velocemente e le dimensioni in altezza delle due sezioni sono corrette. 
+C'è, però, il problema che in alcune righe troppo lunghe alcune lettere vengono leggermente tagliate.
+Nonostante non sia molto piacevole, lo lasciamo così.

@@ -1,0 +1,8 @@
+Prompt:
+Adesso devi implementare la finestra di visualizzazione dei ringraziamenti. Questa finestra deve dare l'opportunità all'utente di visualizzare tutti i ringraziamenti ed, eventualmente, selezionarne uno per vederne i dettagli. Utilizza dei dati fittizi per costruire l'interfaccia grafica.
+
+In questo prompt ho lasciato carta bianca all'AI su come visualizzare tutti i ringraziamenti.
+La scelta è graficamente piacevole, tuttavia ha alcuni bug:
+1. La casella di ogni ringraziamento viene coperta sul lato destro dalla scrollbar.
+2. Il pulsante per tornare indietro non si vede tutto e, messo lì, non è bellissimo.
+3. Nei dettagli di ogni ringraziamento si ripropone il bug del messaggio troppo lungo. 

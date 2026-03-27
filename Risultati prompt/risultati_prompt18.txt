@@ -1,0 +1,24 @@
+Prompt:
+Adesso fai in modo che la sezione in cui l'utente può vedere i suoi ringraziamenti prenda non più dati fittizi, ma li prenda dal database.
+
+La lettura dal database avviene in maniera corretta. Sono presenti dei bug grafici nella scrollbar, in 
+particolare, è attivo lo scroll anche se gli item (o il testo nella pagina del dettaglio) 
+entrano tutti nella finestra. Inoltre, quando apro la finestra dei ringraziamenti, lo scroll è attivo, 
+ma poi, se apro un ringraziamento, dopo che lo chiudo e si riapre la finestra dei ringraziamenti, lo 
+scroll non funziona più se lo faccio con la rotellina del mouse. Come ultimo, spesso viene stampato 
+questo errore nella console:
+
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2088, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\DELL\OneDrive - Università Politecnica delle Marche (1)\Università\Magistrale\Secondo anno\Primo semestre\Data Science\Progetto AI generativa\ringraziamenti18.py", line 897, in <lambda>
+    lambda e: canvas.yview_scroll(-1*(e.delta//120), "units"))
+              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2134, in yview_scroll
+    self.tk.call(self._w, 'yview', 'scroll', number, what)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: invalid command name ".!detailwindow19.!frame3.!canvas"
+
+Tale errore non preclude il corretto funzionamento dell'intero sistema.

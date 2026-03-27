@@ -1,0 +1,4 @@
+Prompt:
+Implementa una logica di visualizzazione del ringraziamento: appena lo scrittore crea il ringraziamento, esso non è visualizzato; quando il lettore entra nella pagina del suo ringraziamento, se questo ha l'attributo visualizzato settato a false, diventa true, altrimenti non fa nulla. Lo scrittore può modificare il testo del ringraziamento solo se questo non è stato visualizzato; in tal caso, il pulsante modifica non deve essere visibile e deve esserci un avviso di impossibilità di modificare il testo. Nella lista di tutti i ringraziamenti di uno scrittore, quelli visualizzati devono essere evidenziati con un pannello simile a quello che evidenzia la presenza di una risposta.
+
+La logica è stata implementata correttamente.

@@ -1,0 +1,4 @@
+Prompt:
+Togli il pulsante annulla dal popup del recupero password.
+
+Il pulsante "Annulla" è stato correttamente tolto.

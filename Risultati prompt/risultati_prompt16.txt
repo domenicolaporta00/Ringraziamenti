@@ -1,0 +1,10 @@
+Prompt:
+Adesso devi implementare la logica di login e di registrazione. Tutto il sistema deve appoggiarsi su Firebase, in maniera specifica, su Auth per la registrazione e il login e su Firestore per la persistenza dei dati. Quando l'utente effettua la registrazione, il sistema deve creare un nuovo utente su Auth; poi, deve creare, se non esiste, la raccolta users e inserire al suo interno un nuovo documento che avrà come identificatore l'UID dell'utente creato su Auth e come campi l'email e il nome, ottenuti dalla compilazione della form. Quando l'utente termina la registrazione, il sistema deve avvisare con un pop-up il corretto svolgimento dell'operazione e, alla chiusura del pop-up, deve essere rimandato alla pagina iniziale per autenticarsi. Devono essere gestiti anche i casi di email già presente nel sistema. Quando l'utente effettua il login correttamente, il nome nell'home page deve essere recuperato dal database a seconda dell'utente che si è autenticato. Il file per il collegamento a Firebase è questo: "progetto-data-science-genai-firebase-adminsdk-fbsvc-7527550776.json".
+
+Login e autenticazione funzionano correttamente; è stata implementata anche la gestione delle eccezioni 
+(email non valida, credenziali errate, password troppo corta, email già esistente).
+
+L'AI ci ha anche detto di installare firebase-admin e di aggiungere l'api-key al file di configurazione 
+di Firebase. Questi due passaggi sono stati fatti manualmente. In ogni caso, il sistema è stato 
+costruito in modo da avvisare l'utente anche nel caso in cui manchi qualcosa tra queste oppure ci sia 
+qualche altro errore generico nella connessione con Firebase.

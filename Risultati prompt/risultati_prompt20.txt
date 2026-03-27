@@ -1,0 +1,4 @@
+Prompt:
+Adesso rendi reale anche il meccanismo di lettura. Quando un lettore compila i campi, il sistema deve verificare che il codice sia presente dentro i ringraziamenti dello scrittore che ha l'email che è stata inserita nella casella email dello scrittore. Se questo non avviene, bisogna segnalare l'errore. Se i dati sono corretti, recupera il ringraziamento e mostralo. Nella finestra del ringraziamento deve esserci la stringa "Ciao" seguita dal nome del lettore, preso dal campo destinatario del ringraziamento, e sotto, affianco al "-" il nome dello scrittore, preso sempre dal database.
+
+Il meccanismodi lettura funziona correttamente.

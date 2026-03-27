@@ -1,0 +1,7 @@
+Prompt:
+c'è ancora qualche bug nel cambio di sezione: quando cambio sezione, resta il focus sulla casella e se provo a scrivere, lo fa sul placeholder senza cancellarlo. Vorrei che quando faccio lo switch della sezione si annullano i focus sulle caselle di testo. Inoltre, c'è qualche problema sulle dimensioni e la posizione della finestra, in quanto alcuni elementi non si vedono bene senza che l'utente sposti la finestra. Vorrei che la finestra sia di dimensione fissa in modo che occupi in altezza tutto lo schermo e in larghezza va bene come hai già fatto. Gli elementi nella finestra devono essere disposti in modo da vedersi tutti. Come ultimo, nella sezione per registrarsi si vede una stringa "oppure" in basso; voglio che la togli. Risolvi questi problemi.
+
+Il bug delle caselle di testo è stato risolto.
+Restano ancora alcuni problemi sulla dimensione della finestra che portano alcuni elementi del 
+layout a non essere visibili. Inoltre, è scomparsa la scritta "oppure" in entrambe le sezioni, 
+quando io avevo chiesto di toglierla solo da quella per registrarsi.

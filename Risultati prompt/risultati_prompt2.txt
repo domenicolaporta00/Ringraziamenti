@@ -1,0 +1,19 @@
+Prompt:
+Non è visibile la sezione per entrare come lettore. Inoltre, preferisco che l'elemento per lo switch vada in basso, sotto al pulsante per accedere o per creare l'account. Poi, quando compilo le caselle nella sezione di accesso e passo alla sezione di registrazione, le due caselle centrali, cioè email e password, risultano compilate allo stesso modo; vale anche il viceversa. Puoi risolvere questi tre problemi?
+
+Le correzioni sono state effettuate parzialmente. Nello specifico:
+1. La sezione per entrare come lettore è adesso visibile.
+2. Il bug delle caselle è stato risolto, ma se ho il focus su una di esse e faccio lo switch, 
+   nell'altra sezione risulta esserci il focus sulla casella con il placeholder e mi permette di 
+   scrivere senza che il placeholder si cancelli (se il placeholder è mario.rossi@gmail.com, se 
+   immetto, ad esempio, il carattere 'a', diventa mario.rossi@gmail.coma, ma sempre in forma di 
+   placeholder).
+3. L'elemento per switchare sezione è stato spostato in basso correttamente.
+
+Inoltre, sono venute fuori ulteriori imperfezioni:
+1. Le dimensioni e la posizione della finestra non sono fatte benissimo, in quanto:
+    1.1. Quando c'è la sezione per accedere, bisogna spostare la finestra in alto per vedere il 
+         il pulsante per entrare come lettore;
+    1.2. Quando c'è la sezione per registrarsi, non si vede la barra in alto per chiudere/ridurre a
+         icona, rendendo impossibile tali operazioni.
+2. Quando è attiva la sezione per registrarsi, è spuntata una stringa in basso "oppure". 

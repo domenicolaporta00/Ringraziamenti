@@ -1,0 +1,9 @@
+Prompt:
+Implementa una nuova funzionalità che è la modifica del testo del ringraziamento da parte dello scrittore, sia lato front-end che back-end.
+
+Anche qui ho lasciato carta bianca all'AI, dando un prompt relativamente corto, senza molti dettagli.
+
+La modifica è stata implementata correttamente, sia a livello f-e che b-e.
+C'è, però, un bug: quando effettuo la modifica e poi torno all'elenco, nell'elenco non si vede l'aggiornamento; 
+si vede soltanto se torno al menù principale e poi rientro. Sarebbe preferibile che si vedesse il cambiamento 
+subito.

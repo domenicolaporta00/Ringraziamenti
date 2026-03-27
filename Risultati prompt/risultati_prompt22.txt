@@ -1,0 +1,6 @@
+Prompt:
+Lato scrittore non sono state implementate le modifiche. Aggiungi anche lì le funzionalità della risposta, ovvero che lo scrittore può visualizzare le risposte di ogni ringraziamento e, nella lista di tutti i ringraziamenti, gli item con risposta devono essere segnalati.
+
+Le modifiche sono state implementate correttamente.
+C'è un bug grafico: il testo della risposta, in alcune righe si estende orizzontalmente fino al bordo 
+della sezione e alcune lettere vengono tagliate.

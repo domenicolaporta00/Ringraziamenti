@@ -1,0 +1,4 @@
+Prompt:
+Nella sezione del lettore, dopo che l'utente compila i campi per leggere il suo ringraziamento, nella finestra del ringraziamento c'è la stringa "Ciao" seguita dal nome che viene inserito nella casella email della pagina precedente. Vorrei che dopo il ciao ci sia il nome del destinatario. Per adesso puoi mettere un dato fittizio, ma non il contenuto della casella di testo email della pagina precedente.
+
+Il bug è stato risolto correttamente.

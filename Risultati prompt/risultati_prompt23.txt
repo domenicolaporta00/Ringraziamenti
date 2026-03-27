@@ -1,0 +1,4 @@
+Prompt:
+Sia nella sezione scrittore che nella sezione lettore, alcune righe delle risposte si estendono orizzontalmente fino alla fine del bordo e alcune lettere vengono tagliate. risolvi questo bug grafico
+
+Adesso se la risposta è troppo lunga non c'è lo scrolling.

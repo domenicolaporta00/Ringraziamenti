@@ -1,0 +1,4 @@
+Prompt:
+la sezione che contiene la risposta, in tutti i casi, se la risposta è troppo lunga, non si vede tutta. voglio che debba vedersi tutta anche in verticale.
+
+Adesso la risposta si vede tutta, ma, dopo la fine, la sezione continua ad espandersi per un po'.

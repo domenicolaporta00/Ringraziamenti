@@ -1,0 +1,9 @@
+Prompt:
+Adesso aggiungi la possibilità di rispondere a un ringraziamento. SI tratta di una funzionalità che ha il lettore e che può fare sul suo ringraziamento. Implementa la logica di aggiornamento del database e aggiorna anche la parte grafica, sia nella sezione del lettore che in quella dello scrittore, il quale potrà visualizzare la risposta nel dettaglio ringraziamenti. Inoltre, nella pagina di tutti i ringraziamenti dello scrittore, ogni ringraziamento che ha una risposta dovrà essere evidenziato con un avviso sulla sua rispettiva casella.
+
+Qui ho dato più istruzioni insieme (aggiorna front-end e back-end sia del lettore che dello scrittore).
+
+Lato lettore è stato implementato tutto correttamente. Inoltre, anche se non espressamente richiesto, 
+il sistema mantiene visualizzato a schermo nella sezione ringraziamento del lettore la risposta che 
+questi ha dato, dicendo che ha già risposto al ringraziamento.
+Lato scrittore non è stato implemento nulla.

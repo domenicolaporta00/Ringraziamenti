@@ -1,0 +1,10 @@
+Prompt:
+Adesso la risposta si vede tutta, ma, dopo la fine, la sezione continua ad espandersi per un po'. Prova a risolvere questo bug grafico; voglio che la dimensione della sezione sia alta il necessario per contenere l'intera risposta.
+
+Lascia meno spazio rispetto a prima, ma continua a lasciarlo; inoltre, impiega un po' di tempo a 
+caricare la pagina. Non è molto soddisfacente, ma, essendo esclusivamente un bug grafico, lo lasciamo 
+così.
+
+Abbiamo notato che nella sezione scrittore, il testo del ringraziamento non viene tagliato ai bordi, 
+mentre nella sezione lettore sì. Poi, sarebbe preferibile che anche le risposte siano centrate e non 
+spostate sulla destra.

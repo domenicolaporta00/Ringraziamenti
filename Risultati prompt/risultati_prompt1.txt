@@ -1,0 +1,17 @@
+Prompt:
+Devo sviluppare un software in Python con interfaccia grafica, utilizzando la libreria tkinter. Il software si chiama "Ringraziamenti". Questo programma permette a degli scrittori di inserire dei testi di ringraziamento e ai lettori di leggerli. Lo scrittore deve registrarsi ed effettuare il login prima di scrivere i suoi ringraziamenti, mentre i lettori non hanno bisogno di autenticazione, ma devono soltanto inserire un codice e l'email dello scrittore. Il codice verrà generato al momento dell'inserimento del ringraziamento da parte dello scrittore che, in seguito, dovrà passarlo al lettore che potrà inserirlo per leggere i suoi ringraziamenti. Tutto il programma può essere utilizzato in occasione di traguardi raggiunti, ad esempio la laurea, per scrivere dei ringraziamenti ai propri amici che, poi, potranno leggerli personalmente. La prima cosa che devi fare è scrivere in un unico file il codice che mostra l'interfaccia grafica di benvenuto così formata: una sezione con una form, che, all'inizio, sarà quella per autenticarsi tramite email e password, un pulsante per cambiare la form da autenticazione a registrazione, da fare tramite nome, email e password, e un pulsante per entrare come lettore.
+
+L'interfaccia grafica generata rispetta le istruzioni date a Claude.
+
+Anche se non espressamente specificati, sono stati aggiunti elementi in più come:
+1. Avvisi nel caso in cui non vengano compilati tutti i campi
+2. Password dimenticata nella sezione di login
+3. Conferma password nella sezione di registrazione
+4. Abbellimenti grafici nella parte superiore
+
+Sono presenti, però, anche i seguenti errori:
+1. Non è visibile il pulsante con cui si può entrare come lettore
+2. Se l'utente scrive qualcosa nelle caselle di testo della sezione "Accedi", lo stesso testo appare 
+   anche nelle due caselle centrali (email e password) della sezione "Registrati"
+
+Non è un errore, ma il pulsante per fare lo switch tra le due sezioni non è posizionato benissimo.

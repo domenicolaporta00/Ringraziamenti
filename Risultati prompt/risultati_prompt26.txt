@@ -1,0 +1,6 @@
+Prompt:
+Fai in modo che anche le risposte siano centrate come i testi dei ringraziamenti. Inoltre, nella sezione scrittore, il testo del ringraziamento non viene tagliato ai bordi,  mentre nella sezione lettore sì. Risolvi questo bug grafico.
+
+Le risposte sono state centrate.
+Il ringraziamento nella sezione lettore è contenuto tutto nella sezione anche orizzontalmente, ma lascia 
+dello spazio sotto, dopo l'ultima riga.

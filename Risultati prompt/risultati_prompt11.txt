@@ -1,0 +1,7 @@
+Prompt:
+Adesso genera la pagina per scrivere un nuovo ringraziamento. L'utente deve inserire il nome del destinatario e il testo del messaggio. Al termine della scrittura, l'utente deve cliccare su un pulsante di conferma e il programma deve dare, come avviso di conferma, una finestra popup che contiene il codice da condividere con l'amico.
+
+La pagina è stata generata correttamente.
+C'è soltanto un bug grafico nella finestra di pop-up in quanto è scritto "servierà" invece di "servirà".
+Inoltre, sarebbe preferibile che, quando chiudo la finestra di pop-up, torna alla pagina principale 
+dello scrittore.

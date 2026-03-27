@@ -1,0 +1,6 @@
+Prompt:
+Il pulsante del pop-up del recupero password è strettissimo. Fai in modo che abbia le stesse dimensioni degli altri pulsanti. Inoltre, aggiungi la possibilità di scoprire e coprire le caselle di inserimento delle password.
+
+Il pulsante ha delle dimensioni normali, come gli altri; il problema è che è spuntato un pulsante 
+"Annulla" che non avevo chiesto. La possibilità di vedere/nascondere le password è stata implementata 
+correttamente.

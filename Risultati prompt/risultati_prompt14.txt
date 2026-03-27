@@ -1,0 +1,14 @@
+Prompt:
+Le caselle di ogni ringraziamento vengono coperte sul lato destro dalla scrollbar; risolvi questo bug grafico. Inoltre, il pulsante per tornare indietro non si vede bene e non è molto bello messo lì; vorrei che lo posizionassi in basso, sotto la sezione che contiene i ringraziamenti; deve essere sempre visibile. La pagina dei dettagli dei ringraziamenti ha un bug: se il testo è troppo lungo, la sezione si espande tanto e non si vede tutto il testo se supera il limite inferiore della finestra; inoltre, alcune righe sono lunghe al punto che, orizzontalmente, alcune parole vengono tagliate. Risolvi questi bug facendo in modo che il testo venga centrato e inserito dentro una casella di dimensioni fisse scorrevole con una scroll bar.
+
+I bug sono stati risolti correttamente. Resta soltanto un problema:
+Scorrendo rapidamente il messaggio di un ringraziamento lungo (specialmente facendo su e giù con la 
+scrollbar tenendo premuto il tasto destro del mouse), prima che si carichi correttamente il testo, 
+vengono fuori cose strane (non so come spiegarlo, da far vedere). Lo accettiamo così in quanto troviamo 
+difficoltà a spiegare il problema all'AI.
+
+Testando l'intero software, abbiamo notato in questa fase un bug nella sezione lettore:
+1. Quando il lettore compila i campi per leggere il suo ringraziamento, la finestra che si apre contiene 
+   una stringa "Ciao <nome>", dove, però, il nome è quello inserito nel campo email scrittore della 
+   pagina precedente; vorremmo che il nome sia quello del destinatario e che, solo alla fine, dove 
+   c'è il "-" ci sia il nome dello scrittore.

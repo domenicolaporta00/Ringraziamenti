@@ -1,0 +1,10 @@
+Prompt:
+Modifica il codice facendo in modo che il testo del ringraziamento venga fuori in una nuova finestra e non più nella stessa finestra della form. Questa nuova finestra deve contenere, oltre al testo, il nome del destinatario in alto e un pulsante per tornare alla finestra di inserimento di email e codice.
+
+Viene generata correttamente una nuova pagina per visualizzare il testo del ringraziamento.
+Oltre al nome del destinatario, è stato aggiunto anche il nome del mittente in basso a destra, 
+come se fosse una vera e propria lettera; tale accorgimento rende l'interfaccia grafica molto 
+gradevole.
+Sono, tuttavia, presenti dei bug in questa nuova finestra:
+1. Il testo non viene visualizzato tutto in orizzontale (da notare "amicizia");
+2. Se il testo è molto lungo, non si riesce a visualizzare tutto.

@@ -1,0 +1,4 @@
+Prompt:
+Ora implementa l'inserimento di un nuovo ringraziamento. Quando l'utente completa la procedura, il sistema deve creare, se non esiste, una nuova raccolta dentro il documento dell'utente loggato chiamata "ringraziamenti" e dentro questa raccolta creare un documento con campi: codice, destinatario, reazione, risposta, testo, visualizzato; questo sarà il ringraziamento. All'inizio, dovrà avere come valori: il codice generato, univoco tra quelli dello scrittore, il contenuto della casella destinatario, stringa vuota, striga vuota, contenuto della casella testo, false.
+
+I ringraziamenti vengono memorizzati correttamente.

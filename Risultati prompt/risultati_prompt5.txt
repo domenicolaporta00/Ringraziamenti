@@ -1,0 +1,5 @@
+Prompt:
+Resta ancora una parte in basso della finestra non visibile. Risolvi applicando come altezza della finestra la massima disponibile meno un valore coerente che faccia sì che l'intera finestra sia visibile.
+
+Claude ha seguito in maniera esatta l'istruzione che gli è stata assegnata e il bug della 
+dimensione della finestra è stato risolto. La schermata di avvio è, adesso, correttamente configurata.

@@ -1,0 +1,12 @@
+Prompt:
+
+la lettura dal database funziona correttamente. Ci sono dei bug nella scrollbar delle finestre dei ringraziamenti e dei dettagli: quando la scrollbar non serve perché i ringraziamenti sono pochi oppure il testo è breve e, in entrambi i casi, entrano nelle rispettive pagine, il sistema mi permette di scrollare; vorrei che lo scroll, in questi casi, venga disattivato. Inoltre, quando sono sulla pagina dei ringraziamenti, lo scroll funziona, ma se apro un ringraziamento, poi lo chiudo e si riapre la pagina dei ringraziamenti, lo scroll con la rotellina del mouse non funziona più, ma funziona soltanto se trascino la barra con il tasto destro del mouse. Risolvi questi problemi.
+
+Adesso le finestre non permettono più lo scrolling quando non serve.
+Il bug dello scrolling che non funziona sembra essere stato risolto; tuttavia, nella finestra dei 
+ringraziamenti, in alcuni casi continua a non funzionare con la rotellina del mouse, mentre trascinando 
+la barra con il tasto destro sì. Non siamo riusciti a capire precisamente quando succede (sembra quasi 
+a caso) e, quindi, considerando anche che utilizzando il tasto destro del mouse lo scrolling funziona, 
+siamo soddisfatti così. Tra l'altro, quando lo scrolling con la rotellina non funziona, se provo a 
+cliccare sulla barra, il suo funzionamento riprende normalmente. I messaggi di errore nella console 
+sembrano non venir più fuori.

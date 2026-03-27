@@ -1,0 +1,6 @@
+Prompt:
+Ci sono ancora problemi sulla dimensione della finestra che si espande per tutta l'altezza dello schermo, ma in basso è coperta dalla barra delle applicazioni di Windows. Voglio che questo non succeda e che tutta la finestra, compresa la parte in basso, sia visibile. Voglio che rimetti anche la stringa "oppure" nella sezione per accedere e che togli il pulsante per entrare come lettore quando è attiva la sezione per registrarsi.
+
+I problemi della dimensione della finestra non sono stati risolti.
+Il pulsante per entrare come lettore è visibile solo quando è attiva la sezione per accedere, 
+come da richiesta.

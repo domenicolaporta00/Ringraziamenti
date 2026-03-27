@@ -1,0 +1,4 @@
+Prompt:
+Quando io faccio il login oppure esco dalla schermata scrittore, riappare la schermata di login con i campi compilati con i valori precedenti; inoltre, resta attivo, se era stato attivato, anche l'avviso di mancato inserimento dei valori. Questo succede anche se scrivo qualcosa nelle caselle di testo e poi entro come lettore. Vorrei che quando ritorno alla schermata di login, sia che provengo dalla schermata del lettore che da quella dello scrittore, i campi di testo vengano resettati e anche l'eventuale avviso di mancato inserimento dei valori non sia visibile
+
+Il bug del ritorno al login è stato risolto.
